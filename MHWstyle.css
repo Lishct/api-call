@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-image: radial-gradient(circle, #83ffe8d2 0%, #00d0ffbb 100%);
+}
+
+h1 {
+    color: #001affdf;
+}
+
+ul {
+    list-style-type: none;
+    padding: 3px;
+    border: 1px solid #4468c9;
+    border-radius: 5px;
+    border-style: dashed;
+    background-color: rgba(127, 255, 212, 0.334);
+}
+
+li {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #434fec;
+    border-radius: 5px;
+    background-color: rgba(165, 187, 255, 0.39);
+}
+
+.error {
+    color: red;
+}
